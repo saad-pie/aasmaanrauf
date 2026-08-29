@@ -1,0 +1,6 @@
+{
+  "name": "Aasmaan Rauf Portfolio",
+  "description": "Portfolio website for Aasmaan Rauf, a 15-year-old fundraiser, marketing manager, and entrepreneur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
