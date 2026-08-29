@@ -288,7 +288,7 @@ export default function App() {
               Instagram
             </a>
             <a 
-              href="mailto:contact@example.com" 
+              href="mailto:aasmaanrauf@gmail.com" 
               className="flex items-center px-6 py-3 bg-white text-black font-semibold rounded-full hover:bg-neutral-200 transition-colors"
             >
               <Mail className="mr-2 h-4 w-4" />
